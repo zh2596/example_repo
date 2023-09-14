@@ -1,6 +1,6 @@
 ---
 title: "Basic Plots"
-author: "Jeff Goldsmith"
+author: "Zilin Huang"
 date: 2023-9-14
 output: html_document
 ---
@@ -8,6 +8,8 @@ output: html_document
 ```{r setup, include = FALSE}
 library(tidyverse)
 ```
+
+New stuff.
 
 The purpose of this file is to present a couple of basic plots using `ggplot`.
 
